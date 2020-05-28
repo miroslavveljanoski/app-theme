@@ -1,8 +1,9 @@
 # Development Strategy
 
-> `name-of-project`
+> `app-theme`
 
 write a short description of your project:
+
 - who would want to use it?
 - why would they want to use it?
 
@@ -10,11 +11,12 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
+
 ![wireframe]()
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+**A User can see my initial repository and live demo**
 
 ### Repo
 
@@ -22,9 +24,9 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. \_\_
 
-__full user story description__
+**full user story description**
 
 ### Repo
 
