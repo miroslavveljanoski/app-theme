@@ -23,6 +23,8 @@ write a short description of your project:
 - Generate from Template
 - Write initial, basic README
 - Turn on GitHub Pages
+- Download flexboxgrid
+- Download images for the project
 
 ## 1. \_\_
 
