@@ -26,21 +26,26 @@ write a short description of your project:
 - Download flexboxgrid
 - Download images for the project
 
-## 1. \_\_
+## 1. User story: Header
 
-**full user story description**
+**As a site visitor I want to see the logo of the company, more about them and what kind of services they offer**
 
 ### Repo
 
-what branch(es) did you work on?
+1. Create an issue for this user story.
+2. This user story will be developed on a branch called `header`.
+3. Make adjustments in the development strategy if needed.
+4. When this user story is finished, push the branch to GitHub and merge it using a Pull Request.
 
 ### HTML
 
-what did you change in the HTML and why?
+- Write the structure of the header using HTML semantic elements
+- Add a logo and navigation menu with Home, About, Services and Contact
+- Use flexboxgrid syntax for positioning and alignment of the elements
 
 ### CSS
 
-what did you change in the CSS and why?
+There is no CSS styling in this step.
 
 ## 2. ...
 
