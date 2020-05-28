@@ -28,7 +28,7 @@ write a short description of your project:
 
 ## 1. User story: Header
 
-**As a site visitor I want to see the logo of the company, more about them and what kind of services they offer**
+**As a site visitor, I want to see the logo of the company, more about them and what kind of services they offer**
 
 ### Repo
 
@@ -47,11 +47,26 @@ write a short description of your project:
 
 There is no CSS styling in this step.
 
-## 2. ...
+## 2. User story: Showcase
 
-...
+**As a site visitor, I want to see the main showcase with an image and heading related to the company's activities**
 
-...
+### Repo
+
+1. Create an issue for this user story.
+2. This user story will be developed on a branch called `showcase`.
+3. Make adjustments in the development strategy if needed.
+4. When this user story is finished, push the branch to GitHub and merge it using a Pull Request.
+
+### HTML
+
+- Write the structure of the showcase using HTML semantic elements
+- Add a heading that is positioned in the center
+- Use flexboxgrid syntax for positioning and alignment of the elements
+
+### CSS
+
+There is no CSS styling in this step.
 
 ## Finishing Touches
 
