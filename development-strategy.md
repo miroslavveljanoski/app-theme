@@ -159,6 +159,29 @@ There is no CSS styling in this step.
 
 There is no CSS styling in this step.
 
+## 7. User story: Services
+
+**As a site visitor, I want to see the services page on the website**
+
+### Repo
+
+1. Create an issue for this user story.
+2. This user story will be developed on a branch called `services`.
+3. Make adjustments in the development strategy if needed.
+4. When this user story is finished, push the branch to GitHub and merge it using a Pull Request.
+
+### HTML
+
+- Write the structure for services page in the website using HTML semantic elements
+- Keep the header, subheader and the footer from the about page
+- Add main section with one row and one column
+- The column should have unordered list with three list items, every one of them should have `<h3>` heading and some text
+- Use flexboxgrid syntax for positioning and alignment of the elements to the center
+
+### CSS
+
+There is no CSS styling in this step.
+
 ## Finishing Touches
 
 - Write final, complete README:
