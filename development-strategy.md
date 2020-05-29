@@ -91,6 +91,28 @@ There is no CSS styling in this step.
 
 There is no CSS styling in this step.
 
+## 4. User story: Info Section
+
+**As a site visitor, I want to see the info section on the website**
+
+### Repo
+
+1. Create an issue for this user story.
+2. This user story will be developed on a branch called `info-section`.
+3. Make adjustments in the development strategy if needed.
+4. When this user story is finished, push the branch to GitHub and merge it using a Pull Request.
+
+### HTML
+
+- Write the structure of the info section using HTML semantic elements
+- Add one row with two equal columns
+- Add iphone image in the first column and unordered list with all features in the second column
+- Use flexboxgrid syntax for positioning and alignment of the elements to the center
+
+### CSS
+
+There is no CSS styling in this step.
+
 ## Finishing Touches
 
 - Write final, complete README:
