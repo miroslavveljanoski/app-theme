@@ -111,6 +111,27 @@ There is no CSS styling in this step.
 
 ### CSS
 
+## 5. User story: Company Info & Footer
+
+**As a site visitor, I want to see the company info on the bottom of the page**
+
+### Repo
+
+1. Create an issue for this user story.
+2. This user story will be developed on a branch called `footer`.
+3. Make adjustments in the development strategy if needed.
+4. When this user story is finished, push the branch to GitHub and merge it using a Pull Request.
+
+### HTML
+
+- Write the structure for the company info and the footer of the page using HTML semantic elements
+- Add one row with three equal columns for the company information
+- The first row should have information about how to contact the company, second row should have small info about the company and the third row should have a newsletter
+- Add footer with copyrights info
+- Use flexboxgrid syntax for positioning and alignment of the elements to the center
+
+### CSS
+
 There is no CSS styling in this step.
 
 ## Finishing Touches
