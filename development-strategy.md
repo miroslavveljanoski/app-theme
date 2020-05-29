@@ -182,6 +182,29 @@ There is no CSS styling in this step.
 
 There is no CSS styling in this step.
 
+## 8. User story: Contact
+
+**As a site visitor, I want to see the contact page on the website**
+
+### Repo
+
+1. Create an issue for this user story.
+2. This user story will be developed on a branch called `contact`.
+3. Make adjustments in the development strategy if needed.
+4. When this user story is finished, push the branch to GitHub and merge it using a Pull Request.
+
+### HTML
+
+- Write the structure for contact page in the website using HTML semantic elements
+- Keep the header, subheader and the footer from the services page
+- Add main section with one row and one column
+- The column should one `<h2>` heading and a form with two inputs, one textarea and submit button
+- Use flexboxgrid syntax for positioning and alignment of the elements to the center
+
+### CSS
+
+There is no CSS styling in this step.
+
 ## Finishing Touches
 
 - Write final, complete README:
