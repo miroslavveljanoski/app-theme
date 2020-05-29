@@ -83,6 +83,8 @@ There is no CSS styling in this step.
 
 - Write the structure of the feature section using HTML semantic elements
 - Add a heading that is positioned in the center
+- Divide all 6 features in two rows with three columns for each row
+- Add icons downloaded from font awesome
 - Use flexboxgrid syntax for positioning and alignment of the elements
 
 ### CSS
