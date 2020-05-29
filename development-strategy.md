@@ -134,6 +134,31 @@ There is no CSS styling in this step.
 
 There is no CSS styling in this step.
 
+## 6. User story: About
+
+**As a site visitor, I want to see the about page on the website**
+
+### Repo
+
+1. Create an issue for this user story.
+2. This user story will be developed on a branch called `about`.
+3. Make adjustments in the development strategy if needed.
+4. When this user story is finished, push the branch to GitHub and merge it using a Pull Request.
+
+### HTML
+
+- Write the structure for about page in the website using HTML semantic elements
+- Keep the header from the home page
+- Add one subheader _About Us_
+- Add main section with one row and one column
+- The column should one h2 heading and some text for _Who we are_ and other h2 heading and some text for _What we do_
+- Keep the company info section and the footer from the home page
+- Use flexboxgrid syntax for positioning and alignment of the elements
+
+### CSS
+
+There is no CSS styling in this step.
+
 ## Finishing Touches
 
 - Write final, complete README:
