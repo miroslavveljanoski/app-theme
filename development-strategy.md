@@ -150,8 +150,8 @@ There is no CSS styling in this step.
 - Write the structure for about page in the website using HTML semantic elements
 - Keep the header from the home page
 - Add one subheader _About Us_
-- Add main section with one row and two columns
-- Each column should have one h2 heading and some paragraphs
+- Add main section with one row and one column
+- The column should one h2 heading and some text for _Who we are_ and other h2 heading and some text for _What we do_
 - Keep the company info section and the footer from the home page
 - Use flexboxgrid syntax for positioning and alignment of the elements
 
